@@ -1,0 +1,190 @@
+@charset "utf-8";
+#wrapperDiv {
+	background-color: #CCC;
+	width: 1024px;
+	margin-top: 10px;
+	margin-left: 100px;
+	margin-right: 100px;
+	position: relative;
+	background-repeat: repeat;
+}
+#headerDiv {
+	background-color: #CCC;
+	height: 100px;
+	width: 1000px;
+	position: relative;
+	font-size: xx-large;
+	margin-left: 10px;
+	margin-top: 20px;
+	margin-right: 10px;
+}
+
+}
+#contactDiv {
+	background-color: #999;
+	height: 25px;
+	width: 50px;
+	position: absolute;
+	margin-right: 30px;
+	clear: right;
+}
+
+#menu {
+	background-color: #CCC;
+	width: 350px;
+	position: absolute;
+	text-align: center;
+	margin-left: 300px;
+	padding-right: 10px;
+	padding-left: 10px;
+	margin-top: 20px;
+}
+
+#contact {
+	background-color: #CCC;
+	width: 100px;
+	position: absolute;
+	/* [disabled]margin-right: 100px; */
+	margin-left: 900px;
+	margin-top: 20px;
+}
+a:link {
+	color: red;
+	font-size: larger;
+	text-align: center;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+	color: blue;
+}
+
+#imgDiv {
+	background-image: url(../office%20space.jpg);
+	height: 300px;
+	width: 1024px;
+	text-align: center;
+	text-indent: -8px;
+	font-variant: small-caps;
+	font-weight: normal;
+	font-size: x-large;
+	line-height: 35px;
+	background-repeat: repeat-x;
+}
+#p2{
+	font-size: medium;
+	line-height: -8px;
+	}
+#quotes {
+	width: 1024px;
+	font-size: 63px;
+	text-align: center;
+}
+
+#section {
+	background-color: #099;
+	height: 700px;
+	width: 1024px;
+	position: relative;
+}
+#img1{
+	position: absolute;
+	margin-top: 100px;
+	margin-left: -42px;
+	}
+#img2{
+	position: absolute;
+	margin-top: 100px;
+	margin-left: 401px;
+}
+
+#dis1 {
+	background-color: #FFF;
+	height: 100px;
+	width: 250px;
+	position: absolute;
+	margin-left: 172px;
+	margin-top: 305px;
+}
+#imgdis1 {
+	background-image: url(../1024.jpg);
+	background-repeat: no-repeat;
+	height: 300px;
+	width: 250px;
+	position: absolute;
+	margin-left: 170px;
+	margin-top: 120px;
+}
+
+
+#imgdisc1 {
+	background-color: #FFF;
+	height: auto;
+	width: 250px;
+	position: absolute;
+	margin-left: 170px;
+	margin-top: 420px;
+	font-size: larger;
+	text-align: center;
+}
+#imgdis2 {
+	background-color: #FFF;
+	background-image: url(../1024.jpg);
+	height: 300px;
+	width: 250px;
+	position: absolute;
+	margin-left: 484px;
+	margin-top: 120px;
+}
+#imgdisc2 {
+	background-color: #FFF;
+	height: auto;
+	width: 250px;
+	position: absolute;
+	margin-top: 420px;
+	margin-left: 484px;
+	font-size: larger;
+	text-align: center;
+}
+#Fp2{
+	font-size: large;
+}
+#textfield{
+	margin-left: 20px;
+	margin-top: 30px;
+	width: 150px;
+}
+#textfield2{
+	width: 150px;
+	margin-right: -134px;
+	margin-left: 10px;
+}
+#email{
+	margin-top: 80px;
+	text-align: left;
+	position: absolute;
+	width: 309px;
+	text-align: left;
+	margin-left: -201px;
+}
+#address{
+	margin-top: 130px;
+	position: absolute;
+	width: 309px;
+	margin-left: -199px;
+	text-align: left;
+}
+#submit{
+	margin-top: 172px;
+	
+}
